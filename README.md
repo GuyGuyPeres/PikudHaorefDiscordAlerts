@@ -55,6 +55,7 @@ The bot's behavior is defined in index.js with the following parameters:
 
 This project is powered by the following essential dependency:
 pikud-haoref-api: An unofficial Node.js API wrapper for Pikud HaOref (Home Front Command) alerts.
+
 Developer: Special thanks to Elad Nava for creating and maintaining the API wrapper that serves as the backbone for this bot's alert retrieval system.
 
 <div align="center">
