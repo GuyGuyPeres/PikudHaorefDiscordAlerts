@@ -40,8 +40,9 @@ The project requires discord.js, dotenv, and the pikud-haoref-api wrapper.
 
 3. **Configure Environment**
 Create a .env file in the root directory and add your credentials:
-DISCORD_TOKEN=your_bot_token
-CHANNEL_ID=your_target_channel_id
+    ```bash
+    DISCORD_TOKEN=your_bot_token
+    CHANNEL_ID=your_target_channel_id
 
 
 ## ⚙️ Configuration
