@@ -30,8 +30,8 @@ This bot provides a critical bridge between official safety data and your commun
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone https://github.com/GuyGuyPeres/PikudHaorefDiscordAlerts.git
+   cd PikudHaorefDiscordAlerts
 
 2. **Install dependencies**
 The project requires discord.js, dotenv, and the pikud-haoref-api wrapper.
