@@ -61,5 +61,5 @@ pikud-haoref-api: An unofficial Node.js API wrapper for Pikud HaOref (Home Front
 Developer: Special thanks to Elad Nava for creating and maintaining the API wrapper that serves as the backbone for this bot's alert retrieval system.
 
 <div align="center">
-<sub>Built with ❤️ for safety. Ensure your bot has "Send Messages" and "Embed Links" permissions in the target channel.</sub>
+<sub>Built with ❤️ for safety by Guy Peres. Ensure your bot has "Send Messages" and "Embed Links" permissions in the target channel.</sub>
 </div>
