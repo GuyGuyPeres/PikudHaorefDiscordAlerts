@@ -44,7 +44,6 @@ Create a .env file in the root directory and add your credentials:
     DISCORD_TOKEN=your_bot_token
     CHANNEL_ID=your_target_channel_id
 
-
 ## ⚙️ Configuration
 The bot's behavior is defined in index.js with the following parameters:
 
